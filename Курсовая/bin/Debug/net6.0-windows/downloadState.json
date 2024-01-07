@@ -1,0 +1,38 @@
+[
+  {
+    "FileName": "asd6.zip",
+    "Url": "https://github.com/ssloy/tinyrenderer/archive/refs/heads/master.zip",
+    "SavePath": "C:\\Users\\User\\Desktop\\asd6.zip",
+    "BytesDownloaded": 35930831,
+    "TimeAdded": "2023-12-07T22:08:16.7541656+03:00",
+    "TotalBytes": 35930831,
+    "FormattedTotalBytes": "34,27 MB",
+    "Status": "Complete",
+    "Progress": 100,
+    "Speed": "*"
+  },
+  {
+    "FileName": "master.zip",
+    "Url": "https://github.com/ssloy/tinyrenderer/archive/refs/heads/master.zip",
+    "SavePath": "C:\\Users\\User\\Desktop\\master.zip",
+    "BytesDownloaded": 635736,
+    "TimeAdded": "2023-12-12T10:23:32.0233015+03:00",
+    "TotalBytes": 35930831,
+    "FormattedTotalBytes": "34,27 MB",
+    "Status": "Canceled",
+    "Progress": 1,
+    "Speed": "30,77 KB/s"
+  },
+  {
+    "FileName": "stalker",
+    "Url": "https://downloader-default16e.disk.yandex.net/rzip/4ec1fa0d5016bcef81c9dffd865ef5ddaff1d6f6939eb7eb3c5e49bb93984549/65847cd1/Y3YzQ3Rqb0E0TStYWngvNjVvVmY4Y2xZUHFBRUFoaUhvaE9kT21id2NYZ29CTWdWaEwwdFhzLzVmQWh6NUk3anEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PQ==?uid=0&filename=True%20Stalker.zip&disposition=attachment&hash=cv3CtjoA4M%2BXZx/65oVf8clYPqAEAhiHohOdOmbwcXgoBMgVhL0tXs/5fAhz5I7jq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&owner_uid=1463745005&tknv=v2&rtoken=MIg2pKAeLwkz&force_default=no&ycrid=na-153882a0a34253917ff4ac551498b544-downloader14f",
+    "SavePath": "C:\\Users\\User\\Desktop\\stalker",
+    "BytesDownloaded": 152,
+    "TimeAdded": "2023-12-21T21:01:43.6386885+03:00",
+    "TotalBytes": 152,
+    "FormattedTotalBytes": "152 B",
+    "Status": "Complete",
+    "Progress": 100,
+    "Speed": "*"
+  }
+]
